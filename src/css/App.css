@@ -1,0 +1,23 @@
+.App {
+  height: 1000px;
+  background-color: #282c34;
+}
+
+.App-header {
+  background-color: #131416;;
+  max-height: 50px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.card-list {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
